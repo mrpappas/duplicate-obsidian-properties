@@ -1,5 +1,5 @@
 # duplicate-obsidian-properties
-Run this Pyhton script in our Obsidian Vault to render all defined properties in the body of the note
+Run this Python script in our Obsidian Vault to render all defined properties in the body of the note
 
 Obsidian Publish does not currently display Note properties in published Vaults. 
 This script will take your defined YAML properties and duplicate them in the body of the note.
