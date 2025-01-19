@@ -16,5 +16,7 @@ Run the script and provide provide the path when prompted
 
 ![1](https://i.imgur.com/iXm8jMv.png)
 
+## Example Output
+
 ![1](https://i.imgur.com/bF2qM5L.png)
 
