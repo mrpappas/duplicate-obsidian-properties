@@ -12,7 +12,7 @@ Ensure you have [Python](https://www.python.org/downloads/) and pyyaml installed
 
 Run the script and provide provide the path when prompted
 
-'python ./duplicate-properties.py'
+`python ./duplicate-properties.py`
 
 ![1](https://i.imgur.com/iXm8jMv.png)
 
